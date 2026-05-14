@@ -14,7 +14,7 @@ export default function Login() {
     try {
       setServerError(''); // Clear previous errors
       // Send the POST request to our backend
-      const response = await API.post('/users/login', {
+      const response = await API.post("/api/users/login", {
         email: data.email,
         password: data.password,
       });
