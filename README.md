@@ -1,4 +1,4 @@
-# ⚡ SplitSense: AI-Powered Expense Tracker
+# ⚡ ExpenseAI : AI-Powered Expense Tracker
 
 An intelligent, full-stack financial application built with the MERN stack that serves as both a personal expense tracker and a shared bill-splitter. Powered by Google's Gemini AI, SplitSense eliminates manual data entry and acts as a personal financial advisor.
 
