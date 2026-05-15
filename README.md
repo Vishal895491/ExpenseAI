@@ -1,6 +1,6 @@
 # ⚡ ExpenseAI : AI-Powered Expense Tracker
 
-An intelligent, full-stack financial application built with the MERN stack that serves as both a personal expense tracker and a shared bill-splitter. Powered by Google's Gemini AI, SplitSense eliminates manual data entry and acts as a personal financial advisor.
+An intelligent, full-stack financial application built with the MERN stack that serves as both a personal expense tracker and a shared bill-splitter. Powered by Google's Gemini AI, ExpenseAI eliminates manual data entry and acts as a personal financial advisor.
 
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge)
 ![Tailwind v4](https://img.shields.io/badge/CSS-Tailwind_v4-38B2AC?style=for-the-badge)
@@ -38,7 +38,7 @@ Make sure you have Node.js and MongoDB installed on your machine. You will also 
 
 ### 2. Clone the Repository
 \`\`\`bash
-git clone https://github.com/rishiraman27/SplitSense.git
+git clone https://github.com/Vishal895491/ExpenseAI.git
 cd splitsense
 \`\`\`
 
@@ -87,4 +87,4 @@ npm run dev
 * Automated email notifications for pending debts.
 
 ---
-*Designed and engineered by Rishi Raman Sinha.*
+*Designed and engineered by Vishal Pal.*
